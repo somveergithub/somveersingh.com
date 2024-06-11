@@ -20,6 +20,9 @@ function App() {
       <a href="https://games.somveersingh.com" target="_blank">
         <button>Click to Play Tic-Tac-Toe</button>
       </a>
+      <a href="https://chat.somveersingh.com" target="_blank">
+        <button>Click to open chat website</button>
+      </a>
     </>
   )
 }
