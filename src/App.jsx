@@ -17,6 +17,9 @@ function App() {
         </a>
       </div>
       <h1>Somveer Singh</h1>
+      <a href="https://games.somveersingh.com" target="_blank">
+        <button>Click to Play Tic-Tac-Toe</button>
+      </a>
     </>
   )
 }
