@@ -17,10 +17,10 @@ function App() {
         </a>
       </div>
       <h1>Somveer Singh</h1>
-      <a href="https://games.somveersingh.com" target="_blank">
+      <a href="http://games.somveersingh.com" target="_blank">
         <button>Click to Play Tic-Tac-Toe</button>
       </a>
-      <a href="https://chat.somveersingh.com" target="_blank">
+      <a href="http://chat.somveersingh.com" target="_blank">
         <button>Click to open chat website</button>
       </a>
     </>
